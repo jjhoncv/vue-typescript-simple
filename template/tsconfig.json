@@ -1,4 +1,4 @@
-{
+{  
   "compilerOptions": {
     "target": "es5",
     "lib": [
@@ -11,6 +11,6 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "experimentalDecorators": true
+    "experimentalDecorators": true   
   }
 }
